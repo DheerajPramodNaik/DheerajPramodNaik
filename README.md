@@ -7,7 +7,7 @@
 
 <img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" />
 
-<h3><ins>Short Introduction About Me:</ins>🙂</h3>
+<h2><ins>Short Introduction About Me:</ins>🙂</h2>
 
 ### Hi There... I am Dheeraj Pramod Naik. I am a student and also a Data Science Enthusiast, learning it from scratch. Currently I am in 3rd Year of Computer Science Engineering at Vidyavardhaka College Of Engineering.
 <!--
