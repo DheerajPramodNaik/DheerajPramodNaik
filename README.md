@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 👋... I'm Dheeraj Pramod Naik
 
 ![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=DheerajPramodNaik&show_icons=true&hide_border=false) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
 
 
+[![LinkedIn]<img align="left" width="170" height="170" alt="GIF" src="https://github.com/DheerajPramodNaik/images/linkedin_rectangle.png">]
 
 
 <!--
