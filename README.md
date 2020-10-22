@@ -5,10 +5,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
 
 
-<img align="centre" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" />
+<img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" />
 
-
-
+### Short Introduction About Me:<br>
+#### Hi There... I am Dheeraj Pramod Naik. I am a student and also a Data Science Enthusiast, learning it from scratch. Currently I am in 3rd Year of Computer Science Engineering at Vidyavardhaka College Of Engineering.
 <!--
 **DheerajPramodNaik/DheerajPramodNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
