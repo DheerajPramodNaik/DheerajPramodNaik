@@ -5,9 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
 
 
-<img align="center" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" />
+<img align="centre" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" />
 
-<img src = "images/linkedin_rectangle.png"/>("https://www.linkedin.com")
 
 
 <!--
