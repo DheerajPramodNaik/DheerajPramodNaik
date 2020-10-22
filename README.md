@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=DheerajPramodNaik&show_icons=true&hide_border=false) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
+
+
+
+
 <!--
 **DheerajPramodNaik/DheerajPramodNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
