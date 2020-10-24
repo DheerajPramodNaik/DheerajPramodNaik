@@ -1,3 +1,5 @@
+<img src="images/header.png" alt="header">
+
 ### Hi there 👋... I'm Dheeraj Pramod Naik
 
 ![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=DheerajPramodNaik&show_icons=true&hide_border=false) 
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="images/footer.png" alt="footer">
