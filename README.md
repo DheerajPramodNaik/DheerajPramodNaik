@@ -1,7 +1,7 @@
 <img src="images/header.png" alt="header">
 
 <p align="center">
-  Hi there 👋... I'm Dheeraj Pramod Naik
+  <h3>Hi there 👋... I'm Dheeraj Pramod Naik</h3>
 </p>
 
 
@@ -20,6 +20,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
 
+<img src="images/footer.png" alt="footer">
+
 <!--
 **DheerajPramodNaik/DheerajPramodNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="images/footer.png" alt="footer">
+
