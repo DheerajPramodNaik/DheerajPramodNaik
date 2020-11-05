@@ -15,7 +15,7 @@
 
 
 
-![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=DheerajPramodNaik&show_icons=true&hide_border=false) 
+![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=DheerajPramodNaik&show_icons=true&theme=dracula) 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
