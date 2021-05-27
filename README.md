@@ -20,6 +20,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPramodNaik&layout=compact&hide_border=true)
 
+<p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sanjithpk.visitor-badge">
+</p>
+
 <img src="images/footer.png" alt="footer">
 
 <!--
